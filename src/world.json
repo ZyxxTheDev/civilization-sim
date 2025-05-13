@@ -1,0 +1,21 @@
+{
+  "year": 2,
+  "era": "Stone Age",
+  "civilizations": [
+    {
+      "name": "Civ 1",
+      "population": [
+        "Person 1"
+      ]
+    },
+    {
+      "name": "Civ 2",
+      "population": [
+        "Person 1",
+        "Person 2"
+      ]
+    }
+  ],
+  "randomEvent": "An earthquake devastates a major city!",
+  "eventYear": 1
+}
